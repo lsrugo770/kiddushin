@@ -3,7 +3,7 @@
 [Header
   fullWidth:true
   title:"Kiddushin"
-  subtitle:"An interactive summary of Tractate Kiddushin, using Idyll"
+  subtitle:"An interactive summary of Tractate Kiddushin"
   author:"Levy Srugo"
   date:`(new Date()).toDateString()`
   background:"#222222"
@@ -19,3 +19,15 @@ This is still a work in progress.
 
 Comments, suggestions, and contributions are welcome!
 
+// divide into separate pages
+## Page 50b
+
+### משנה
+
+"המקדש אשה ובתה או אשה ואחותה כאחת אינן מקודשות"
+
+The גמרא presents 3 opinions for the source of this law.
+
+1. רמי בר חמא brings the פסוק of "ואשה אל אחותה לא תקח לצרור". He interprets the פסוק as referring to a case where a person is trying to marry two sisters at the same time, and it is teaching us that the קידושין is not valid in this case.
+2. רבא explains this פסוק differently, as referring to a case where a person wants to marry one sister after the other. He derives the law of our משנה from a rule stated by רבה, who said "כל שאינו בזה אחר זה אפי' בבת אחת אינו", meaning that any two marriages which are are invalid if performed one after the other, are likewise invalid if performed simultaneously. Since the קידושין of one's wife's sister does not take effect, the קידושין of two sisters at the same time is likewise invalid.
+3. רבא later brings another source for this law. The פסוק says "כי יקח איש אשה ובעלה". He learns from this that a קידושין is only valid if it is able to be followed by ביאה. In the case of our משנה, since a man is not allowed to have ביאה with his wife if he is also married to her sister, the קידושין to two sisters would not take effect.
