@@ -1,0 +1,21 @@
+[meta title:"Kiddushin" description:"An interactive summary of Tractate Kiddushin" /]
+
+[Header
+  fullWidth:true
+  title:"Kiddushin"
+  subtitle:"An interactive summary of Tractate Kiddushin, using Idyll"
+  author:"Levy Srugo"
+  date:`(new Date()).toDateString()`
+  background:"#222222"
+  color:"#ffffff"
+   /]
+
+
+## Introduction
+
+The goal of this project is to create a summary of [Tractate Kiddushin](https://www.sefaria.org/Kiddushin?lang=bi) with interactive elements, using [Idyll](https://idyll-lang.org/).
+
+This is still a work in progress.
+
+Comments, suggestions, and contributions are welcome!
+
